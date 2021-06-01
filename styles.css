@@ -1,0 +1,77 @@
+ body {
+   margin-right: 5em;
+   margin-left: 5em;
+   max-width: 40em;
+   font-size: 133%;
+ }
+
+ /*a {
+   color: #A00;
+ }
+ 
+ a:visited {
+   color: #900;
+ }*/
+
+ .nav-next {
+   float: right;
+ }
+  
+ ol {
+   padding: 0em;
+ }
+
+ li {
+   margin: 1em 1em;
+ }
+
+ fieldset {
+   border: none;
+ }
+
+ fieldset legend {
+   font-weight: bold;
+ }
+
+ input {
+   display: none;
+ }
+ 
+ .checkmark {
+   visibility: hidden;
+   display: inline;
+   color: #0F0;
+   margin: 0.3em;
+ }
+
+ .x-mark {
+   visibility: hidden;
+   display: inline;
+   color: #F00;
+   margin: .3em;
+ }
+
+ input.correct:checked + label{
+   background: #0F0;
+ }
+
+ input.wrong:checked + label {
+   background: #F00;
+ }
+
+ :valid input.correct + label{
+   #background: #0F0;
+ }
+
+ :valid {
+    -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none
+ }
+
+ :valid + .answer_text {
+    pointer-events: none
+ }
+
+ :valid .checkmark, :valid .x-mark {
+   visibility: visible;
+ }
+
