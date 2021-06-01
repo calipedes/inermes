@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test.xsl" ?>  
+
+<test>
+
+<nav>
+  <prev><name>Tema 6</name><link>./tema6.xml</link></prev>
+  <next><name>Inicio</name><link>./index.html</link></next>
+</nav>
+
+<title>TEMA VII</title>
+<subtitle>Armas de colección.
+Definiciones del artículo 2 del reglamento de armas y artículo 107.
+Historia de las armas de fuego, calibres, munición y pólvora.</subtitle>
+
+<question><q_text>¿En la Categoría 6ª.2 del artículo 3, del Reglamento de Armas, se encuentran las armas de fuego cuyo modelo o
+año de fabricación sean anteriores al 1 de enero de 1899, y las reproducciones de las mismas, a menos que
+puedan disparar municiones destinadas a armas de guerra o a armas prohibidas?</q_text>
+<answer>a) Cierto.</answer>
+<answer>b) Falso.<correct></correct></answer>
+<answer>c) Es indiferente.</answer></question>
+
+<question><q_text>Según se dispone en el artículo 107.c), del Reglamento de Armas, para su uso, las armas largas y cortas de
+avancarga y las demás de la categoría 6.2 precisarán la posesión de un certificado de un banco oficial de
+pruebas para cada arma y …</q_text>
+<answer>a) La correspondiente Licencia de armas.</answer>
+<answer>b) La Licencia especial de armas.</answer>
+<answer>c) La obtención de una autorización especial.<correct></correct></answer></question>
+
+<question><q_text>¿Qué se entiende por arma antigua?</q_text>
+<answer>a) Arma de fuego que en su ornamentación presenta una peculiaridad distinta a las demás de su clase, en
+razón de los materiales nobles empleados o de diseño, que le confiere un especial valor.</answer>
+<answer>b) Arma de fuego portátil que utiliza munición de calibre flobert.</answer>
+<answer>c) Arma de fuego cuyo modelo o cuyo año de fabricación es anterior al 1 de enero de 1890.<correct></correct></answer></question>
+
+<question><q_text>Si no se va a hacer uso de una reproducción de un arma de fuego, únicamente se quiere poseer como
+coleccionista ¿Cómo se documentará?</q_text>
+<answer>a) Mediante una guía especial de coleccionista.</answer>
+<answer>b) Mediante la inscripción en un libro-registro de coleccionista.<correct></correct></answer>
+<answer>c) Con un certificado del Banco Oficial de Pruebas.</answer></question>
+
+<question><q_text>¿La antigüedad de las armas de fuego cuyo modelo o año de fabricación sean anteriores al 1 de enero de 1890,
+y las reproducciones de las mismas, a menos que puedan disparar municiones destinadas a armas de guerra o a
+armas prohibidas, será fijada por la Dirección General de la Guardia Civil?</q_text>
+<answer>a) Cierto.</answer>
+<answer>b) Falso.<correct></correct></answer>
+<answer>c) Es indiferente.  </answer></question>
+
+<question><q_text>¿Cómo se efectuará la custodia de las reproducciones de las armas de fuego cortas en los domicilios
+particulares?</q_text>
+<answer>a) Guardadas completas en cajas fuertes, armarios o armeros, con al menos un grado de seguridad
+clase III, de la norma UNE EN 1143-1.<correct></correct></answer>
+<answer>b) Guardadas completas en cajas fuertes, armarios o armeros, con al menos un grado de seguridad clase I, de
+la norma UNE EN 1143-1.</answer>
+<answer>c) Guardadas completas, o sus cierres o piezas fundamentales, en cajas fuertes, armarios o armeros, con al
+menos un grado de seguridad clase I, de la norma UNE EN 1143-1.</answer></question>
+
+<question><q_text>Las armas de fuego antiguas, sus reproducciones y asimiladas, susceptibles de hacer fuego, ¿en qué lugares se
+podrán utilizar?</q_text>
+<answer>a) Excepcionalmente, se podrán utilizar en campos, galerías o polígonos de tiro controlados para
+prácticas, previa obtención de una autorización especial.<correct></correct></answer>
+<answer>b) Únicamente en polígonos de tiro de concurso.</answer>
+<answer>c) En todo caso, se podrán utilizar en la práctica de la caza mayor.</answer></question>
+
+<question><q_text>¿Qué se entiende por reproducción de un arma de fuego?</q_text>
+<answer>a) Un arma que es copia de otra, reuniendo características de aptitudes.</answer>
+<answer>b) Un arma que es copia de otra original, reuniendo todas sus características, aptitudes y posibilidades
+de uso.<correct></correct></answer>
+<answer>c) Un arma que es copia de otra original, y no reúne sus características, aptitudes y posibilidades de uso.</answer></question>
+
+<question><q_text>¿Qué es una réplica de un arma de fuego?</q_text>
+<answer>a) Objeto que por su apariencia física o características externas puede inducir a confusión sobre su
+auténtica naturaleza.<correct></correct></answer>
+<answer>b) Es un arma que es similar a otra original, y que no reúne las mismas aptitudes de un arma original.</answer>
+<answer>c) Es un arma igual a otra original, con todas sus características, pero que no tiene las mismas aptitudes y
+posibilidades de uso.</answer></question>
+
+<question><q_text>¿Qué tipo de munición deberán utilizar las reproducciones de armas de fuego antiguas?</q_text>
+<answer>a) Munición metálica utilizada para las armas de fabricación actual y del mismo calibre.</answer>
+<answer>b) Munición con pólvora negra, y del calibre de las mismas.<correct></correct></answer>
+<answer>c) Munición con pólvora sin humo.</answer></question>
+
+<question><q_text>¿Se podrá adquirir munición para el uso de las reproducciones de armas de fuego cortas antiguas?</q_text>
+<answer>a) Sólo podrán adquirirse 100 cartuchos anuales por arma corta.<correct></correct></answer>
+<answer>b) Podrán adquirirse 150 cartuchos anuales por arma corta.</answer>
+<answer>c) Sólo podrán adquirirse 200 cartuchos anuales por arma corta.</answer></question>
+
+<question><q_text>¿Se podrá tener en depósito munición para el uso de las reproducciones de armas de fuego largas antiguas?</q_text>
+<answer>a) Podrá tener en depósito 250 cartuchos.</answer>
+<answer>b) Podrá tener en depósito hasta 1000 cartuchos.</answer>
+<answer>c) En ningún caso podrá tener en depósito un número superior a 200 cartuchos.<correct></correct></answer></question>
+
+<question><q_text>El cartucho de pólvora ya se empleaba a mediados del siglo XVI, no obstante, respecto al cartucho de
+pólvora de percusión central, ¿Cuándo comenzó su uso?</q_text>
+<answer>a) 1550 a 1840.</answer>
+<answer>b) 1868 en adelante.<correct></correct></answer>
+<answer>c) 1845 a 1925.</answer></question>
+
+<question><q_text>¿Cuál fue el primer ejército del mundo dotado con revólveres?</q_text>
+<answer>a) El Ejército Español.</answer>
+<answer>b) El Ejército Norteamericano.<correct></correct></answer>
+<answer>c) El Ejercito Francés.</answer></question>
+
+<question><q_text>¿Cuál fue la primera arma de repetición con cartucho metálico declarada reglamentaria en el Ejército
+Español?</q_text>
+<answer>a) El revólver sistema Lafaucheaux.<correct></correct></answer>
+<answer>b) El revólver Colt.</answer>
+<answer>c) El revólver Remington</answer></question>
+
+<question><q_text>En relación a las armas retiradas por infracción a la Ley de Caza, si la Autoridad competente acordara
+la devolución de las mismas....</q_text>
+<answer>a) Las armas estarán depositadas en la Intervención a disposición de los particulares por un plazo máximo de un
+mes.</answer>
+<answer>b) A partir de un mes de la notificación por parte de la Autoridad competente, si no fuesen retiradas por su
+propietario serán destruidas</answer>
+<answer>c) Ambas son correctas<correct></correct></answer></question>
+
+<question><q_text>¿Qué entendemos por munición de bala explosiva?</q_text>
+<answer>a) Munición de uso civil con balas que contienen una carga que explota por impacto</answer>
+<answer>b) Munición de uso militar con balas que contienen una carga que explota por impacto<correct></correct></answer>
+<answer>c) Ninguna es correcta</answer></question>
+
+<question><q_text>¿Cuál de las siguientes afirmaciones es cierta?</q_text>
+<answer>a) La munición es un cartucho incluyendo la vaina.<correct></correct></answer>
+<answer>b) La vaina no está incluida en la parte de un cartucho</answer>
+<answer>c) Se considera munición a los cartuchos a partir de 9 mm</answer></question>
+
+<question><q_text>Consideramos que un arma ha sido inutilizada, cuando..</q_text>
+<answer>a) Al menos un componente esencial hay sido inutilizado.</answer>
+<answer>b) Al menos dos componentes esenciales hayan sido inutilizados.</answer>
+<answer>c) Cuando todos sus componentes esenciales hayan sido inutilizados.<correct></correct></answer></question>
+
+<question><q_text>¿Puede un arma de un solo tiro llevar adaptado un cargador?</q_text>
+<answer>a) No, nunca<correct></correct></answer>
+<answer>b) Si, si solo se hace uso de tiro a tiro</answer>
+<answer>c) Dependerá del momento.</answer></question>
+
+<question><q_text>¿Podemos considerar como coleccionista a una persona que solo reúne componentes esenciales de
+las armas?</q_text>
+<answer>a) No, al menos debe de coleccionar un arma completa.</answer>
+<answer>b) Sí, es correcto<correct></correct></answer>
+<answer>c) Solo en el caso de que tenga especial vocación</answer></question>
+
+<question><q_text>
+El hecho de transformar un arma de guerra en otra civil, lo denominaremos...</q_text>
+<answer>a) Actividad lucrativa</answer>
+<answer>b) No está permitido.</answer>
+<answer>c) Desmilitarización.<correct></correct></answer></question>
+
+</test>

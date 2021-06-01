@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test.xsl" ?>  
+
+<test>
+
+<nav>
+  <prev><name>Tema 5</name><link>./tema5.xml</link></prev>
+  <next><name>Tema 7</name><link>./tema7.xml</link></next>
+</nav>
+
+<title>TEMA VI</title>
+<subtitle>Reparación de armas. Prueba de armas. Deposito de armas.</subtitle>
+
+<question><q_text> ¿Es cierto que el Reglamento de Armas contempla que la reparación de armas de fuego se hará solamente por
+industrias que las hubiesen fabricado o por armeros autorizados por la Intervención de Armas de la Guardia Civil,
+con establecimientos abiertos e inscritos en un registro de la citada Intervención?</q_text>
+<answer>a) Cierto.<correct></correct></answer>
+<answer>b) Falso.</answer>
+<answer>c) Es indiferente.</answer></question>
+
+<question><q_text> ¿Qué documento será aportado al armero, cuando se le entregue un arma de fuego para reparación?</q_text>
+<answer>a) La Licencia o Autorización de armas.</answer>
+<answer>b) La Guía de Pertenencia o la Guía de Circulación en su caso.<correct></correct></answer>
+<answer>c) La Guía de Pertenencia y la Licencia de Armas.</answer></question>
+
+<question><q_text> ¿Qué destino se le dará a la Guía de pertenencia de un arma de fuego que ha sido reparada?</q_text>
+<answer>a) Se devolverá al/la propietario/a del arma<correct></correct></answer>
+<answer>b) Se hará una nueva guía haciendo constar que ha sido reparada</answer>
+<answer>c) Se destruirá</answer></question>
+
+<question><q_text> ¿Puede llevar un arma de fuego personalmente el/la titular de la misma para su reparación?</q_text>
+<answer>a) No</answer>
+<answer>b) Algunas veces</answer>
+<answer>c) Sí<correct></correct></answer></question>
+
+<question><q_text> Cuando el arma a reparar proceda de una localidad distinta a la de ubicación del establecimiento del armero y no la
+lleva personalmente su propietario. ¿Qué documento deberá sustituir a la Guía de Pertenencia?:</q_text>
+<answer>a) Tan solo una nota con las deficiencias que tiene el arma, si se manda por una agencia de transportes.</answer>
+<answer>b) Una guía de circulación expedida por la Intervención de Armas de origen o demarcación del/la
+propietario/a del arma.<correct></correct></answer>
+<answer>c) Si la lleva personalmente el/la propietario/a, necesita igualmente guía de circulación.</answer></question>
+
+<question><q_text> ¿ Qué requisito será imprescindible para poder reparar armas de fuego?:</q_text>
+<answer>a) Ser un técnico en la reparación de armas y realizarlo de forma habitual.</answer>
+<answer>b) Tener la condición de armero y establecimiento abierto e inscrito en un registro que llevará la
+Intervención de Armas de su residencia.<correct></correct></answer>
+<answer>c) Ser titular de una armería debidamente autorizada por la Autoridad Gubernativa.</answer></question>
+
+<question><q_text> ¿Es imprescindible obtener la condición de armero para dedicarse a la reparación de armas de fuego?</q_text>
+<answer>a) Algunas veces</answer>
+<answer>b) Sí<correct></correct></answer>
+<answer>c) Cuando se trate de armas blancas sí es necesario</answer></question>
+
+<question><q_text> ¿Las industrias que fabrican armas de fuego están autorizadas a reparar las mismas?</q_text>
+<answer>a) No, si la avería es muy grave</answer>
+<answer>b) Sí<correct></correct></answer>
+<answer>c) Depende del tipo de arma.</answer></question>
+
+<question><q_text> ¿Se admitirá un arma de fuego para su reparación si no lleva la Guía de pertenencia?</q_text>
+<answer>a) Sí, cuando esté en muy mal estado</answer>
+<answer>b) No, en ningún caso.</answer>
+<answer>c) Sí, siempre que dicho documento se haya sustituido por una guía de circulación.<correct></correct></answer></question>
+
+<question><q_text> ¿Puede el titular de un arma de fuego llevarla personalmente a un establecimiento autorizado para su
+reparación?</q_text>
+<answer>a) No</answer>
+<answer>b) Sí, si va acompañada de la Guía de Pertenencia.</answer>
+<answer>c) Sí, si va acompañada de la Guía de Pertenencia y Licencia correspondiente.<correct></correct></answer></question>
+
+<question><q_text> La reparación de armas se hará solamente:</q_text>
+<answer>a) Por las industrias que las hubiesen fabricado.</answer>
+<answer>b) Por armeros/as, que autorizados/as por Intervención de Armas cuenten con establecimiento abierto al
+público y estén inscritos en el correspondiente registro.</answer>
+<answer>c) Las dos respuestas anteriores (A y B) son válidas.<correct></correct></answer></question>
+
+<question><q_text> No se admitirá un arma a reparar si no va acompañada de:</q_text>
+<answer>a) Guía de Pertenencia.</answer>
+<answer>b) Guía de Circulación.</answer>
+<answer>c) La A) y la B) son correctas.<correct></correct></answer></question>
+
+<question><q_text> ¿Donde quedará la Guía de Pertenencia del arma que se esté reparando?:</q_text>
+<answer>a) Será devuelta al propietario del arma una vez se tomen los datos del arma por el armero.</answer>
+<answer>b) Quedará en poder del/la armero/a mientras dure la reparación del arma.<correct></correct></answer>
+<answer>c) No es necesario, en este caso, que el arma vaya acompañada por la Guía de Pertenencia.</answer></question>
+
+<question><q_text> ¿Cuándo deberá ser entregada a su titular la guía de pertenencia de un arma llevada a reparar a una
+armería?</q_text>
+<answer>a) Una vez presentada el arma en la armería.</answer>
+<answer>b) Una vez que el/la Armero/a ha tomado nota de la misma.</answer>
+<answer>c) En el momento de retirar el arma de la armería.<correct></correct></answer></question>
+
+<question><q_text> Además del arma, ¿qué entregará al armero/a el/la titular que le deje su arma para reparar?:</q_text>
+<answer>a) La Guía de Pertenencia.<correct></correct></answer>
+<answer>b) La licencia de armas.</answer>
+<answer>c) No es preciso que le entregue nada.</answer></question>
+
+<question><q_text> Sin conocimiento de la Intervención de Armas y Explosivos de la Guardia Civil ¿en qué casos está permitida
+la reparación que suponga modificación de las características, estructura o calibre de un arma de caza?</q_text>
+<answer>a) En cualquier caso.</answer>
+<answer>b) En ningún caso.<correct></correct></answer>
+<answer>c) Es indiferente.</answer></question>
+
+<question><q_text> ¿Puede llevarse a cabo una reparación que suponga modificación del calibre de un arma?:</q_text>
+<answer>a) Sí, si es de caza y esté aprobado por un banco oficial de pruebas y notificado a la Intervención de
+Armas.</answer>
+<answer>b) Sí, siempre que las variaciones hayan sido realizadas por los propios fabricantes del arma y hayan
+entregado esta documentación técnica en la Intervención de Armas de la demarcación del
+establecimiento.</answer>
+<answer>c) Son correctas las dos respuestas anteriores.<correct></correct></answer></question>
+
+<question><q_text> ¿En qué casos se permitirá que la reparación del arma suponga la modificación sustancial de sus
+características?</q_text>
+<answer>a) Con conocimiento del Ministerio de Cultura</answer>
+<answer>b) Con conocimiento de la Intervención de Armas y aprobación en su caso del Ministerio de
+Defensa o del Banco Oficial de Pruebas.<correct></correct></answer>
+<answer>c) Con conocimiento de la Intervención de Armas y Ministerio de Hacienda.</answer></question>
+
+<question><q_text> ¿Para modificar el calibre de un arma es preciso la aprobación en su caso del Ministerio de Defensa?</q_text>
+<answer>a) Sí, siempre que se trate de armas de la 1ª y 2ª categoría.</answer>
+<answer>b) Sí, siempre que se trate de armas de guerra.<correct></correct></answer>
+<answer>c) Las dos respuestas son correctas.</answer></question>
+
+<question><q_text> ¿Puede cambiarse la estructura de un arma?.</q_text>
+<answer>a) Sí, siempre que lo haga un armero autorizado y por un motivo razonado.</answer>
+<answer>b) Sí, previo conocimiento de la Intervención de Armas de la Guardia Civil y aprobación en su
+caso del Ministerio de Defensa o de un Banco Oficial de Pruebas según el arma de que se trate.<correct></correct></answer>
+<answer>c) En ningún caso.</answer></question>
+
+<question><q_text> ¿Puede repararse un arma de caza, de tal forma que suponga una modificación sustancial de la misma?</q_text>
+<answer>a) Sí, con conocimiento y aprobación de los organismos competentes.<correct></correct></answer>
+<answer>b) Nunca.</answer>
+<answer>c) Solo en caso de que la reparación fuera efectuada por un herrero.</answer></question>
+
+<question><q_text> Los/Las fabricantes y comerciantes autorizados/as y sus representantes, ¿a quiénes podrán dejar a
+prueba las armas de fuego?</q_text>
+<answer>a) A personas mayores de edad.</answer>
+<answer>b) A personas que posean la correspondiente licencia.<correct></correct></answer>
+<answer>c) A personas interesadas en la compra de las armas.</answer></question>
+
+<question><q_text> ¿Quiénes podrán dejar a prueba las armas de fuego?</q_text>
+<answer>a) Los/Las fabricantes y comerciantes autorizados/as</answer>
+<answer>b) Los/Las representantes de los fabricantes y comerciantes autorizados.</answer>
+<answer>c) Las dos anteriores son correctas.<correct></correct></answer></question>
+
+<question><q_text> Los/Las comerciantes autorizados/as, ¿dejarán a probar un arma de fuego una persona sin Licencia de
+Armas?</q_text>
+<answer>a) Sí</answer>
+<answer>b) No.<correct></correct></answer>
+<answer>c) Sí, con autorización del/de la Armero/a</answer></question>
+
+<question><q_text> ¿Qué plazo de validez tendrá el documento expedido por un comerciante autorizado para probar un arma de
+fuego en la misma localidad de residencia del interesado en comprarla?</q_text>
+<answer>a) 24 horas</answer>
+<answer>b) 5 días<correct></correct></answer>
+<answer>c) 7 días</answer></question>
+
+<question><q_text> En el documento que expida un fabricante a favor de la persona que este interesada en adquirir un arma de
+fuego, ¿podrá omitir el lugar donde se va a efectuar la prueba con dicha arma?</q_text>
+<answer>a) -Siempre</answer>
+<answer>b) No<correct></correct></answer>
+<answer>c) No tiene importancia</answer></question>
+
+<question><q_text> ¿Cualquier titular de la licencia de armas correspondiente y en vigor, podrá probar las armas de fuego que
+desea adquirir?</q_text>
+<answer>a) Sí<correct></correct></answer>
+<answer>b) Nunca</answer>
+<answer>c) Con autorización del/de la Subdelegado/a del Gobierno</answer></question>
+
+<question><q_text> La persona interesada en comprar un arma, ¿puede probarla antes de adquirirla en galería autorizada?</q_text>
+<answer>a) No, en ningún caso.</answer>
+<answer>b) Sí, pero debe probarla tan solo el viajante.</answer>
+<answer>c) Sí.<correct></correct></answer></question>
+
+<question><q_text> Una persona que posee licencia de armas correspondiente, ¿puede probar un arma de caza?</q_text>
+<answer>a) Si, en caso de que se la deje un comerciante autorizado.<correct></correct></answer>
+<answer>b) Solo en caso de que sea titular de una licencia de caza.</answer>
+<answer>c) Las dos anteriores son correctas.</answer></question>
+
+<question><q_text> ¿Qué será indispensable, para que una persona interesada en adquirir un arma pueda probarla?:</q_text>
+<answer>a) Que le acompañe el comercial o fabricante.</answer>
+<answer>b) Que tenga una autorización del vendedor.</answer>
+<answer>c) Estar en posesión de la correspondiente licencia.<correct></correct></answer></question>
+
+<question><q_text> ¿Qué datos deberá contener el documento, de carácter personal e intransferible, que emite el/la fabricante,
+comerciante o sus representantes a la persona que vaya a realizar la prueba de un arma de fuego
+interesada en adquirirla?:</q_text>
+<answer>a) Denominación expresa del lugar en donde se deben realizar las pruebas.</answer>
+<answer>b) Reseña del arma, la licencia y el lugar de las pruebas, plazos de validez y estar visado por la
+Intervención de Armas.<correct></correct></answer>
+<answer>c) Que se reseñe un plazo de tres días para realizar la prueba.</answer></question>
+
+<question><q_text> ¿Qué carácter tiene el documento que el/la fabricante o comerciante expide a favor de la persona
+interesada en adquirir un arma de fuego que quiere probar?</q_text>
+<answer>a) Genérico, para cualquier posible adquirente.</answer>
+<answer>b) Transferible a un tercer posible adquirente, siempre que posea licencia de armas.</answer>
+<answer>c) Personal e intransferible.<correct></correct></answer></question>
+
+<question><q_text> Un fabricante autorizado ha dejado en prueba un arma a un particular que desea adquirirla y que posee la
+licencia correspondiente, ¿qué le debe expedir el fabricante?</q_text>
+<answer>a) La guía de pertenencia.</answer>
+<answer>b) La factura del arma.</answer>
+<answer>c) Un documento de carácter personal e intransferible visado por la Intervención de Armas y
+Explosivos.<correct></correct></answer></question>
+
+<question><q_text> ¿Por quién será visado el documento de autorización para la prueba de un arma de fuego expedido a favor
+de un/una particular por un/una fabricante autorizado?</q_text>
+<answer>a) Intervención de Armas.<correct></correct></answer>
+<answer>b) Comerciante.</answer>
+<answer>c) No es necesario este requisito.</answer></question>
+
+<question><q_text> El documento de autorización para la prueba de un arma de fuego, a favor de la persona interesada en
+adquirirla, ¿en qué modelo de documento se formalizará?</q_text>
+<answer>a) En triplicado ejemplar.</answer>
+<answer>b) Por escrito.</answer>
+<answer>c) Conforme a un modelo oficial.<correct></correct></answer></question>
+
+<question><q_text> ¿Donde se podrán probar las armas de fuego, además de en los campos de las Federaciones deportivas
+o en los polígonos, campos o galerías de tiro?</q_text>
+<answer>a) En los terrenos privados.</answer>
+<answer>b) En los terrenos que cuenten con autorización de la autoridad local.</answer>
+<answer>c) En los terrenos cinegéticos controlados.<correct></correct></answer></question>
+
+<question><q_text> ¿Se podrán probar las armas de fuego en Galerías de Tiro?</q_text>
+<answer>a) No</answer>
+<answer>b) No, si no se tiene autorización del/de la Alcalde/sa</answer>
+<answer>c) Sí<correct></correct></answer></question>
+
+<question><q_text> ¿Se podrá probar un arma de fuego en la vía pública?</q_text>
+<answer>a) Solo en caso de que no haya personas en la misma.</answer>
+<answer>b) Si es de noche y en descampado.</answer>
+<answer>c) Nunca<correct></correct></answer></question>
+
+<question><q_text> Con motivo del fallecimiento de una persona que posea armas de fuego, los/las herederos/ras o
+albaceas, ¿Cuándo deberán depositar las armas en la Intervención de Armas?</q_text>
+<answer>a) Al día siguiente del fallecimiento.</answer>
+<answer>b) Tan pronto como tengan conocimiento de la obligación de hacerlo y en cualquier caso dentro
+de los 6 meses siguientes al fallecimiento.<correct></correct></answer>
+<answer>c) Será determinado por el/la Interventor/a de Armas y Explosivos de la residencia del fallecido/a.</answer></question>
+
+<question><q_text> ¿Es cierto que el Reglamento de Armas dispone que al cesar en la habilitación para la tenencia legal de las
+armas, el/la interesado/a, deberá depositarlas inmediatamente?</q_text>
+<answer>a) Cierto.<correct></correct></answer>
+<answer>b) Falso.</answer>
+<answer>c) Solo en caso de armas de caza.</answer></question>
+
+<question><q_text> Al cesar en la habilitación para la tenencia legal de las armas ¿En qué momento el/la interesado/a deberá
+depositar las armas con las correspondientes guías de pertenencia?</q_text>
+<answer>a) Dentro del plazo de 10 días desde que cesó en dicha habilitación.</answer>
+<answer>b) Inmediatamente.<correct></correct></answer>
+<answer>c) Quedará exento del depósito si comunica tal vicisitud a la Intervención de Armas y adopta las
+suficientes medidas de seguridad para evitar su pérdida o sustracción.</answer></question>
+
+<question><q_text> No pasar dos revistas consecutivas de un arma será motivo de retirada de la guía de pertenencia ¿qué debe
+hacerse con el arma?</q_text>
+<answer>a) Guardarla con las suficientes medidas de seguridad.</answer>
+<answer>b) Depositarla.<correct></correct></answer>
+<answer>c) Llevar la guía de pertenencia a la Intervención de Armas.</answer></question>
+
+<question><q_text> ¿Qué tiempo permanecerán las armas que se depositen en las Intervenciones de Armas a disposición de
+los/las herederos/as, como consecuencia del fallecimiento de sus titulares?</q_text>
+<answer>a) 6 meses.</answer>
+<answer>b) 1 año.<correct></correct></answer>
+<answer>c) 2 años.</answer></question>
+
+<question><q_text> ¿Qué documento acompañará a las armas que se depositen en las Intervenciones de Armas, como
+consecuencia del fallecimiento de sus titulares?</q_text>
+<answer>a) La Licencia de armas del/de la fallecido/a y el certificado de defunción.</answer>
+<answer>b) La guía de pertenencia.<correct></correct></answer>
+<answer>c) La guía de pertenencia, acompañada de certificado de defunción.</answer></question>
+
+<question><q_text> En caso de caducidad de la licencia de armas, ¿qué tiempo tendrá para depositarlas?</q_text>
+<answer>a) 3 meses</answer>
+<answer>b) 1 año</answer>
+<answer>c) Inmediatamente<correct></correct></answer></question>
+
+<question><q_text> ¿Qué documentos acompañarán a las armas de fuego que vayan a ser depositadas?</q_text>
+<answer>a) Las Guías de Pertenencia<correct></correct></answer>
+<answer>b) La Licencia de Armas</answer>
+<answer>c) Las Tarjetas de Armas</answer></question>
+
+<question><q_text> ¿Qué deberá depositar el/la titular de armas de fuego que extraviase la licencia de armas?</q_text>
+<answer>a) Las Armas y las Guías de Pertenencia<correct></correct></answer>
+<answer>b) Las Guías</answer>
+<answer>c) No depositará ningún arma</answer></question>
+
+<question><q_text> ¿Qué deberá depositar el/la titular de armas de fuego que extraviase las Guías de Pertenencia?</q_text>
+<answer>a) La Licencia de Armas</answer>
+<answer>b) Las Armas que amparan dichas Guías<correct></correct></answer>
+<answer>c) Licencia de caza</answer></question>
+
+<question><q_text> ¿Es cierto que el/la titular de un arma de fuego no puede depositarla en la Intervención de Armas y
+Explosivos para ser subastada?</q_text>
+<answer>a) Cierto.<correct></correct></answer>
+<answer>b) Falso.</answer>
+<answer>c) Depende de si el arma es de caza o no.</answer></question>
+
+<question><q_text> ¿Puede el/la titular de un arma de fuego depositarla en la Intervención de Armas y Explosivos para ser
+subastada?</q_text>
+<answer>a) No<correct></correct></answer>
+<answer>b) A veces</answer>
+<answer>c) Sí</answer></question>
+
+<question><q_text> ¿Puede el/la titular de un arma de fuego depositarla en la Intervención de Armas y Explosivos para su
+reducción a chatarra?</q_text>
+<answer>a) No; el destino reglamentario de reducción a chatarra es solo en caso de armas depositadas que
+carezcan de punzones necesarios o sean prohibidas.</answer>
+<answer>b) A veces</answer>
+<answer>c) Sí<correct></correct></answer></question>
+
+<question><q_text> ¿Cuándo procede el depósito de las armas y la retirada y anulación de la guía de pertenencia?</q_text>
+<answer>a) Al no pasar la revista, en una ocasión.</answer>
+<answer>b) Al no pasar dos revistas consecutivas.<correct></correct></answer>
+<answer>c) En ningún caso procede el depósito de las armas.</answer></question>
+
+<question><q_text> En caso de fallecimiento del/de la titular de un arma, ¿qué deberán hacer los familiares con las armas del
+fallecido?</q_text>
+<answer>a) Pueden hacer uso de las mismas sin ningún requisito previo.</answer>
+<answer>b) Depositarlas en la Intervención de Armas<correct></correct></answer>
+<answer>c) Pasarán a propiedad del hijo mayor de la familia</answer></question>
+
+<question><q_text> ¿Qué plazo tienen los herederos/as de un arma, depositada en la Intervención de Armas y Explosivos
+por fallecimiento del/de la titular, para enajenarla?</q_text>
+<answer>a) Una semana</answer>
+<answer>b) Un año<correct></correct></answer>
+<answer>c) No hay plazo establecido</answer></question>
+
+<question><q_text> En caso de anulación de la guía de pertenencia de un arma ¿qué debe hacerse con el arma?</q_text>
+<answer>a) Depositarla inmediatamente en la Intervención de Armas.<correct></correct></answer>
+<answer>b) Esperar a que me devuelvan la guía.</answer>
+<answer>c) Nada</answer></question>
+
+<question><q_text> Señale el plazo de que disponen los/las herederos/as del/de la titular de una escopeta para depositarla en la
+Intervención de Armas y Explosivos en caso de fallecimiento del/de la titular:</q_text>
+<answer>a) Tan pronto como tenga conocimiento de la obligación de hacerlo.</answer>
+<answer>b)  Dentro de los seis meses siguientes al fallecimiento.</answer>
+<answer>c) Correctas A) y B) <correct></correct></answer> </question>
+
+<question><q_text> Señale el plazo de que disponen los/las herederos/as del/de la titular de una escopeta para depositarla en la
+Intervención de Armas y Explosivos en caso de fallecimiento del/de la titular:</q_text>
+<answer>a) Dentro de los seis meses siguientes al fallecimiento.<correct></correct></answer>
+<answer>b) Al año del fallecimiento.</answer>
+<answer>c) Las dos anteriores son correctas.</answer></question>
+
+<question><q_text> Una escopeta depositada por infracción a la Ley de Caza, ¿podrá ser recuperada por su dueño/a?</q_text>
+<answer>a) Sí<correct></correct></answer>
+<answer>b) No</answer>
+<answer>c) Algunas veces</answer></question>
+
+<question><q_text> ¿Qué destino se le dará a las armas depositadas por infracción a la Ley de Caza, cuando los/las titulares de
+las mismas no deseen recuperarlas?</q_text>
+<answer>a) Venderlas</answer>
+<answer>b) Depositadas hasta que la Autoridad Judicial disponga de ellas.</answer>
+<answer>c) Destruirlas<correct></correct></answer></question>
+
+<question><q_text> ¿Qué destino recibirán las armas que se depositen en las Intervenciones de Armas a disposición de
+los/las herederos/as, como consecuencia del fallecimiento de sus titulares y haya transcurrido el plazo
+reglamentario, sin que las armas hayan sido enajenadas o recuperadas?</q_text>
+<answer>a) Se reducirán a chatarra, si no se ha pedido expresamente que se subasten.</answer>
+<answer>b) Se destruirán.<correct></correct></answer>
+<answer>c) Se enajenarán a los armeros/as que lo soliciten.</answer></question>
+
+<question><q_text> ¿Qué fin se le dará a un arma depositada en la Intervención de Armas y que transcurridos los plazos
+reglamentarios no ha sido transferida?</q_text>
+<answer>a) Se entregará al museo de armas del Ejército</answer>
+<answer>b) Se destruirán.<correct></correct></answer>
+<answer>c) Se alquilará a persona en posesión de licencia de armas</answer></question>
+
+<question><q_text> En las importaciones, las armas llegadas a un aeropuerto que no fuesen retiradas por sus destinatarios/as
+después de despachadas por las aduanas, ¿cuánto tiempo estarán depositadas como máximo, a
+disposición del interesado/a?</q_text>
+<answer>a) Durante un año.<correct></correct></answer>
+<answer>b) Durante seis meses.</answer>
+<answer>c) Durante cinco meses.</answer></question>
+
+<question><q_text> En las importaciones, las armas llegadas a un aeropuerto que no fuesen retiradas por sus destinatarios/as
+después de despachadas por las aduanas, ¿qué fin le será dado a dichas armas?</q_text>
+<answer>a) Se venderán.</answer>
+<answer>b) Serán devueltas al país de origen.</answer>
+<answer>c) Serán depositadas en la Intervención de Armas y Explosivos.<correct></correct></answer></question>
+
+<question><q_text> ¿Qué destino se dará a un arma que tiene un valor acreditado como patrimonio histórico en el caso de
+que haya transcurrido un año depositada?</q_text>
+<answer>a) Se enajenarán en pública subasta<correct></correct></answer>
+<answer>b) Se le devolverá a su legítimo/a dueño/a</answer>
+<answer>c) Lo que dictamine la Autoridad Judicial.</answer></question>
+</test>

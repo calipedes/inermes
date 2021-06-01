@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test.xsl" ?>  
+
+<test>
+
+<nav>
+  <prev><name>Tema 2</name><link>./tema2.xml</link></prev>
+  <next><name>Tema 4</name><link>./tema4.xml</link></next>
+</nav>
+
+<title>TEMA III</title>
+<subtitle>Circulación de armas. Revista de armas. Transferencias de armas.</subtitle>
+
+<question><q_text>¿Cómo se denomina el documento que ampara el traslado, sin licencia ni guía de pertenencia, entre dos
+lugares, de armas de las categorías 2ª y 3ª?  </q_text>
+<answer>a) Guía de circulación. <correct></correct> </answer>
+<answer>b) Guía de transporte.  </answer>
+<answer>c) Albarán de circulación.  </answer></question>
+
+<question><q_text>Cuando un particular adquiera una escopeta en localidad distinta a la de su residencia, ¿quien
+expedirá la Guía de Circulación?.  </q_text>
+<answer>a) La Intervención de Armas de su residencia </answer>
+<answer>b) La Intervención de Armas del lugar de la compra <correct></correct></answer>
+<answer>c) Las dos anteriores pueden ser válidas.  </answer></question>
+
+<question><q_text>¿Es cierto si afirmamos que no es preceptiva la guía de circulación para amparar una escopeta que su
+titular transportará de una localidad a otra, provisto de guía de pertenencia y licencia correspondiente?  </q_text>
+<answer>a) No en todos los casos.  </answer>
+<answer>b) Siempre que el transporte se realice dentro de la provincia.  </answer>
+<answer>c) Si.  <correct></correct></answer></question>
+
+<question><q_text>¿Quién expide la Guía de circulación para transportar un arma de fuego de la 3ª categoría?  </q_text>
+<answer>a) El/La Comandante de Puesto de la Guardia Civil </answer>
+<answer>b) La Intervención de Armas y Explosivos.  <correct></correct></answer>
+<answer>c) El/La Teniente Coronel Jefe de la Comandancia de la Guardia Civil </answer></question>
+
+<question><q_text>¿Por qué es necesario solicitar una guía de circulación cuando se envía a reparar una báscula de
+escopeta entre dos lugares distintos?  </q_text>
+<answer>a) Por ser un componente esencial <correct></correct></answer>
+<answer>b) No es necesario </answer>
+<answer>c) Esta prohibido </answer></question>
+
+<question><q_text>Cuando se envíe una escopeta sin guía de pertenencia y sin licencia, ¿qué documento amparará el
+traslado de una localidad a otra?</q_text>
+<answer>a) La autorización del armero</answer>
+<answer>b) El permiso del Ayuntamiento</answer>
+<answer>c) La guía de circulación<correct></correct></answer></question>
+
+<question><q_text>¿Qué armas de las que se citan a continuación, que se trasladan sin guía de pertenencia y sin licencia,
+necesitan guía de circulación para ser trasladadas entre dos localidades distintas?</q_text>
+<answer>a) Las de la 3ª categoría</answer>
+<answer>b) Las de la 8ª categoría</answer>
+<answer>c) Las dos anteriores son ciertas.<correct></correct></answer></question>
+
+<question><q_text>¿Cuándo necesitará guía de circulación una carabina de aire comprimido, que se traslade sin guía de
+pertenencia y sin licencia?</q_text>
+<answer>a) En todos los casos</answer>
+<answer>b) Nunca</answer>
+<answer>c) Si se trata de una carabina cuya energía cinética del proyectil en boca exceda de 24,2 Julios<correct></correct></answer></question>
+
+<question><q_text>¿Qué armas de las que se citan a continuación, que se trasladan sin guía de pertenencia y sin licencia, no
+necesitan guía de circulación para ser trasladadas entre dos localidades?</q_text>
+<answer>a) Las escopetas</answer>
+<answer>b) Las armas de fuego largas rayadas.</answer>
+<answer>c) Las dos anteriores son falsas.<correct></correct></answer></question>
+
+<question><q_text>¿Qué armas de las que se citan a continuación, que se trasladan sin guía de pertenencia y sin licencia,
+necesitan guía de circulación para su traslado entre dos localidades distintas?</q_text>
+<answer>a) Las escopetas</answer>
+<answer>b) Las armas de fuego largas rayadas.</answer>
+<answer>c) Las dos anteriores son ciertas.<correct></correct></answer></question>
+
+<question><q_text>Además de la guía de circulación, ¿se necesita algún otro documento que acompañe al arma, cuando ésta
+se envíe a reparar a otra localidad?</q_text>
+<answer>a) La guía de pertenencia</answer>
+<answer>b) Autorización escrita por el titular</answer>
+<answer>c) Ningún otro documento<correct></correct></answer></question>
+
+<question><q_text>¿Es cierto que el Reglamento de Armas contempla que las armas reglamentadas de cualquier categoría y
+sus componentes esenciales acabados circularán en envases debidamente acondicionados para su
+seguridad durante el traslado?</q_text>
+<answer>a) Cierto.<correct></correct></answer>
+<answer>b) Falso.</answer>
+<answer>c) Depende del tipo de armas.</answer></question>
+
+<question><q_text>¿Se pueden enviar a reparar en un mismo envase, las escopetas junto con sus municiones?</q_text>
+<answer>a) Sí, siempre que en el mismo paquete no haya más de 25 armas cortas</answer>
+<answer>b) Sí, siempre que en el mismo paquete no haya más de tres escopetas</answer>
+<answer>c) No<correct></correct></answer></question>
+
+<question><q_text>¿Quién precintará los envases que contengan armas largas de cañón estriado?</q_text>
+<answer>a) El Servicio Postal de Correos</answer>
+<answer>b) Intervención de Armas de la Guardia Civil o Armero/a autorizado/a<correct></correct></answer>
+<answer>c) La empresa consignataria</answer></question>
+
+<question><q_text>¿Cómo deberán circular las armas reglamentadas de cualquier categoría y sus componentes esenciales?</q_text>
+<answer>a) En envases debidamente acondicionados para su seguridad durante el traslado.<correct></correct></answer>
+<answer>b) En su funda y en una caja de cartón.</answer>
+<answer>c) Si va desmontada, es suficiente.</answer></question>
+
+<question><q_text>Si Vd. pretende enviar dos armas de su propiedad a reparar a Éibar, a dos fábricas diferentes, ¿puede
+hacerlo en un solo envase?</q_text>
+<answer>a) Sí, puesto que van destinados a la misma localidad.</answer>
+<answer>b) No pueden remitirse en el mismo envase, al corresponder a distintos destinatarios.<correct></correct></answer>
+<answer>c) Pueden ir en uno o dos paquetes, por estar permitido.</answer></question>
+
+<question><q_text>¿Se debe enviar un rifle y una escopeta a reparar en un mismo envase?</q_text>
+<answer>a) Sí, si van destinados al mismo armero.</answer>
+<answer>b) No, puesto que el mismo paquete no puede contener armas de cañón estriado junto con
+escopetas de caza.<correct></correct></answer>
+<answer>c) Sí, puesto que el paquete es adecuado para armas largas, como son el rifle y la escopeta.</answer></question>
+
+<question><q_text>¿Es cierto que el Reglamento de Armas preceptúa que en ningún caso podrán hacerse envíos o
+transportes de armas cargadas ni de armas conjuntamente con cartuchería susceptible de ser utilizada con
+las armas transportadas?</q_text>
+<answer>a) No lo preceptúa.</answer>
+<answer>b) En el transporte de algunas armas.</answer>
+<answer>c) Sí es cierto.<correct></correct></answer></question>
+
+<question><q_text>¿Se puede enviar a reparar una escopeta por Correo ?</q_text>
+<answer>a) No.<correct></correct></answer>
+<answer>b) Cuando vayan desmontadas.</answer>
+<answer>c) Sí, siempre que no se envíe conjuntamente con munición.</answer></question>
+
+<question><q_text>¿Cuándo se puede enviar a reparar las armas cargadas?</q_text>
+<answer>a) Sí, si son cortas</answer>
+<answer>b) Nunca<correct></correct></answer>
+<answer>c) Con autorización del Interventor de Armas.</answer></question>
+
+<question><q_text>¿Qué plazo establece el Reglamento de Armas al particular que compra una escopeta en localidad distinta
+a la de su residencia para personarse en la Intervención de Armas y solicitar la Guía de Pertenencia?</q_text>
+<answer>a) No hay plazo establecido</answer>
+<answer>b) Diez días.<correct></correct></answer>
+<answer>c) Un día</answer></question>
+
+<question><q_text>¿Por qué medio de transporte tiene que ser enviada una escopeta a reparar, si no la lleva su titular
+personalmente ?</q_text>
+<answer>a) Por giro postal</answer>
+<answer>b) A través de una empresa de transportes.<correct></correct></answer>
+<answer>c) Por medio de un amigo personal</answer></question>
+
+<question><q_text>¿Puede un particular que ha comprado un arma larga rayada, en población distinta de la residencia,
+transportar dicha arma consigo hasta la Intervención de Armas de su residencia para que le extiendan la
+Guía de pertenencia?</q_text>
+<answer>a) Sí se puede, siempre que tenga licencia de armas</answer>
+<answer>b) Sí, siempre que el comprador se halle en posesión de la guía de pertenencia</answer>
+<answer>c) No.<correct></correct></answer></question>
+
+<question><q_text>En ningún caso podrán hacerse los envíos de:</q_text>
+<answer>a) Armas cargadas</answer>
+<answer>b) Armas con cartuchería correspondiente a las mismas</answer>
+<answer>c) La a) y la b) son ciertas<correct></correct></answer></question>
+
+<question><q_text>Al remitir un arma para reparación u otras causas, ¿Dónde debe figurar la declaración del contenido?</q_text>
+<answer>a) En la documentación y en el mismo paquete, en caracteres de suficiente claridad.<correct></correct></answer>
+<answer>b) No debe figurar en ningún sitio visible, por tratarse de armas que deben transportarse con toda
+reserva.</answer>
+<answer>c) Solamente debe figurar en la documentación (guía de circulación).</answer></question>
+
+<question><q_text>¿Cómo debe transportarse un rifle de caza mayor, de nueva adquisición y sin guía de pertenencia, de una
+localidad a otra donde resida el titular?</q_text>
+<answer>a) Lo puede llevar el titular personalmente</answer>
+<answer>b) Por medio de empresa de transporte<correct></correct></answer>
+<answer>c) Con autorización de la armería</answer></question>
+
+<question><q_text>Cuando un particular reciba notificación del remitente que le ha sido enviada a la Intervención de Armas de
+la Guardia Civil, la escopeta que compró al citado remitente, ¿qué deberá hacer?</q_text>
+<answer>a) Presentarse en la Intervención de Armas con la licencia de caza.</answer>
+<answer>b) Trasladarse a la Intervención de Armas para ver si le gusta y si no devolverla.</answer>
+<answer>c) Presentarse en la Intervención de Armas provisto de licencia o documento que le autorice para
+adquirirla.<correct></correct></answer></question>
+
+<question><q_text>Cuando un particular es destinatario de una escopeta enviada a la Intervención de Armas y Explosivos,
+¿es cierto que para retirarla debe presentar en dicha Intervención la licencia o documento que le autorice
+su adquisición?</q_text>
+<answer>a) Falso.</answer>
+<answer>b) Cierto.<correct></correct></answer>
+<answer>c) Solo si se trata de escopetas.</answer></question>
+
+<question><q_text>¿Es cierto que el Reglamento de Armas dispone que las armas de las categorías 1ª y todas las de
+concurso, pasarán revista cada tres años y las demás armas que precisen guía, cada cinco años?</q_text>
+<answer>a) Cierto.</answer>
+<answer>b) Falso.<correct></correct></answer>
+<answer>c) Solo en las de 2ª categoría.</answer></question>
+
+<question><q_text>¿Cada cuántos años pasan revista las armas de la 2ª categoría?</q_text>
+<answer>a) Dos años</answer>
+<answer>b) Cinco años.<correct></correct></answer>
+<answer>c) Todos los años</answer></question>
+
+<question><q_text>¿Cada cuántos años pasan revista las armas de la 3ª categoría?</q_text>
+<answer>a) Cinco años<correct></correct></answer>
+<answer>b) Nunca</answer>
+<answer>c) Tres años</answer></question>
+
+<question><q_text>¿Es necesario presentar el arma para pasar revista?</q_text>
+<answer>a) Si<correct></correct></answer>
+<answer>b) No</answer>
+<answer>c) Alguna vez</answer></question>
+
+<question><q_text>El hecho de no pasar dos revistas del arma, ¿es causa de anulación y retirada de la guía de pertenencia?</q_text>
+<answer>a) No</answer>
+<answer>b) Si<correct></correct></answer>
+<answer>c) Depende del valor histórico del arma</answer></question>
+
+<question><q_text>¿En qué mes pasará revista el titular de una guía de pertenencia de una escopeta?</q_text>
+<answer>a) En el mes que se abre la veda de caza</answer>
+<answer>b) En el mes de abril</answer>
+<answer>c) En el mes correspondiente a la renovación de la licencia.<correct></correct></answer></question>
+
+<question><q_text>¿Qué necesita un familiar, con licencia de armas, de un titular de un arma para pasar la revista de las
+mismas?</q_text>
+<answer>a) Demostrar la relación de parentesco con el titular del arma</answer>
+<answer>b) Autorización escrita del titular del arma.<correct></correct></answer>
+<answer>c) Autorización escrita del Delegado/a del Gobierno de la Comunidad</answer></question>
+
+<question><q_text>No pasar dos revistas consecutivas, dará lugar a la anulación y retirada de la Guía de Pertenencia, ¿a qué
+dará lugar también?</q_text>
+<answer>a) La pérdida de la propiedad del arma</answer>
+<answer>b) A la apertura de un expediente sancionador<correct></correct></answer>
+<answer>c) No poder cazar en el transcurso de un año</answer></question>
+
+<question><q_text>¿Quién realizará las anotaciones correspondientes al pasar la Revista de Armas?:</q_text>
+<answer>a) La persona afectada</answer>
+<answer>b) El/La Interventor/a de Armas<correct></correct></answer>
+<answer>c) El/La Jefe de la Comandancia de la Guardia Civil</answer></question>
+
+<question><q_text>¿Qué requisito es imprescindible para pasar la Revista de Armas?:</q_text>
+<answer>a) La presentación del Arma<correct></correct></answer>
+<answer>b) Tiene que ser pasada por el/la titular del Arma</answer>
+<answer>c) Las respuestas a) y b) son ciertas</answer></question>
+
+<question><q_text>El hecho de no pasar la revista de armas constituye:</q_text>
+<answer>a) Una infracción Administrativa<correct></correct></answer>
+<answer>b) Un Delito</answer>
+<answer>c) Una falta penal</answer></question>
+
+<question><q_text>Si tengo una escopeta de caza, ¿cada cuánto tiempo tengo que pasar revista?</q_text>
+<answer>a) Cada año.</answer>
+<answer>b) Cada tres años.</answer>
+<answer>c) Cada cinco años.<correct></correct></answer></question>
+
+<question><q_text>¿Cada cuánto tiempo pasarán revista las armas de concurso?</q_text>
+<answer>a) Cada tres años.</answer>
+<answer>b) Cada cinco años.<correct></correct></answer>
+<answer>c) En cada concurso.</answer></question>
+
+<question><q_text>¿Cada cuánto tiempo pasarán revista las ballestas?</q_text>
+<answer>a) Las ballestas no pasan revista, por no ser armas de fuego.</answer>
+<answer>b) Cada tres años.</answer>
+<answer>c) Cada cinco años como las escopetas.<correct></correct></answer></question>
+
+<question><q_text>¿Puede un tercero, con licencia de armas, pasar revista de una escopeta?</q_text>
+<answer>a) No, tiene que ser personalmente el titular.</answer>
+<answer>b) Sí, si lo autorizó el/la titular por escrito.<correct></correct></answer>
+<answer>c) Sí, aprovechando la revista de las suyas, sin más trámite.</answer></question>
+
+<question><q_text>Una carabina de aire comprimido de la 4ª categoría. ¿cuándo tiene que pasar la revista?</q_text>
+<answer>a) Cada cinco años.</answer>
+<answer>b) Cada tres años.</answer>
+<answer>c) No tiene que pasar revista.<correct></correct></answer></question>
+
+<question><q_text>¿En qué circunstancias se puede pasar revista de armas sin presentarla en la Intervención de Armas o
+Puesto de la Guardia Civil?</q_text>
+<answer>a) En caso de enfermedad</answer>
+<answer>b) Cuando sea de nueva adquisición</answer>
+<answer>c) En ningún caso<correct></correct></answer></question>
+
+<question><q_text>Un cañón estriado, y con recámara para cartuchos metálicos, adaptable a una escopeta de caza, pasará
+revista de armas a los:</q_text>
+<answer>a) 5 años<correct></correct></answer>
+<answer>b) 3 años</answer>
+<answer>c) No pasa revista</answer></question>
+
+<question><q_text>Una carabina de repetición accionada por gas comprimido, no asimilada a escopeta, pasará revista de
+armas cada:</q_text>
+<answer>a) 3 años</answer>
+<answer>b) 5 años</answer>
+<answer>c) No necesita pasar revista<correct></correct></answer></question>
+
+<question><q_text>Una carabina de aire comprimido, cuyo proyectil en boca tiene una energía superior a los 24,2 julios, ¿ha
+de pasar revista de armas?</q_text>
+<answer>a) Si<correct></correct></answer>
+<answer>b) No</answer>
+<answer>c) Sólo si se usa para cazar</answer></question>
+
+<question><q_text>
+¿Es cierto que el particular que desee enajenar un arma tiene que hacer la cesión a persona que posea la
+licencia, tarjeta o certificado de inutilización correspondiente?</q_text>
+<answer>a) Sí, siempre que sea necesario con arreglo a lo dispuesto en el Reglamento de Armas.<correct></correct></answer>
+<answer>b) Puede enajenarse a cualquiera.</answer>
+<answer>c) Las armas de fuego no pueden enajenarse.</answer></question>
+
+<question><q_text>Al enajenar un particular un arma de fuego, ¿donde entregará la guía de pertenencia?</q_text>
+<answer>a) Al adquirente.</answer>
+<answer>b) En la Intervención de Armas.<correct></correct></answer>
+<answer>c) En el Ayuntamiento.</answer></question>
+
+<question><q_text>¿Debe comunicarse a la Intervención de Armas la enajenación de un arma?</q_text>
+<answer>a) Siempre<correct></correct></answer>
+<answer>b) Nunca</answer>
+<answer>c) Únicamente las armas cortas</answer></question>
+
+<question><q_text>¿En qué caso no es necesario participar a la Intervención de Armas la enajenación de un arma?</q_text>
+<answer>a) Se participa siempre.<correct></correct></answer>
+<answer>b) Cuando se enajena a una armería.</answer>
+<answer>c) Cuando se regala a alguien, sin mediar precio.</answer></question>
+
+<question><q_text>¿Qué requisito es indispensable que tenga el comprador de un arma de fuego?</q_text>
+<answer>a) Que se halle en posesión de la licencia para el arma que pretende adquirir.<correct></correct></answer>
+<answer>b) Que tenga licencia de caza y seguro del cazador.</answer>
+<answer>c) No es necesario requisito alguno.</answer></question>
+
+<question><q_text>La enajenación de un arma entre particulares, ¿qué nuevo documento le será expedido al comprador?</q_text>
+<answer>a) Recibo de compra-venta.</answer>
+<answer>b) Entrega del arma al nuevo titular con su guía de pertenencia..</answer>
+<answer>c) Expedición de nueva guía de pertenencia<correct></correct></answer></question>
+
+<question><q_text>La venta de un arma de fuego se efectuará siempre con conocimiento de:</q_text>
+<answer>a)  Comisaría de Policía</answer>
+<answer>b)  Dirección General de la Guardia Civil.</answer>
+<answer>c)  Intervención de Armas correspondiente<correct></correct></answer></question>
+
+<question><q_text>¿Es cierto que los extranjeros residentes en España podrían prestar sus armas de caza a quienes estén
+provistos de licencia de caza y de licencia de arma larga rayada para caza mayor o escopetas?</q_text>
+<answer>a) Cierto.<correct></correct></answer>
+<answer>b) Solo las escopetas.</answer>
+<answer>c) Los/Las extranjeros/as residentes no pueden prestar sus armas.</answer></question>
+
+<question><q_text>¿Qué requisitos debe cumplir una persona para que se le pueda ceder el arma?</q_text>
+<answer>a) Ser propietario/a de un coto de caza</answer>
+<answer>b) Poseer la correspondiente licencia de armas<correct></correct></answer>
+<answer>c) Tener aficiones cinegéticas</answer></question>
+
+<question><q_text>¿Por cuánto tiempo se puede prestar las armas para cazar ?</q_text>
+<answer>a) Mientras sea titular de un coto de caza</answer>
+<answer>b) Un mes</answer>
+<answer>c) Quince días como máximo<correct></correct></answer></question>
+
+<question><q_text>¿Cómo se debe hacer la cesión temporal de las armas ?</q_text>
+<answer>a) Por escrito, fechado y firmado.<correct></correct></answer>
+<answer>b) De palabra</answer>
+<answer>c) Por teléfono</answer></question>
+
+<question><q_text>Una persona con nacionalidad español/a, ¿a quien podrá prestar su escopeta?</q_text>
+<answer>a) A quien tenga licencia de caza.</answer>
+<answer>b) No puede prestarla.</answer>
+<answer>c) A quienes estén provistos de la licencia de armas correspondiente y de licencia de caza.<correct></correct></answer></question>
+
+<question><q_text>El/La titular de un arma larga rayada para caza mayor ¿a quien podrá prestar dicha arma?</q_text>
+<answer>a) A nadie.</answer>
+<answer>b) A quienes estén provistos de la licencia de armas correspondiente y de licencia de caza.<correct></correct></answer>
+<answer>c) A quien esté provisto de licencia de caza.</answer></question>
+
+<question><q_text>¿Es cierto que las armas de caza podrán prestarse a quienes estén provistos de licencia de caza y de
+licencia de armas largas rayadas para caza mayor o escopeta correspondiente?</q_text>
+<answer>a) Cierto.<correct></correct></answer>
+<answer>b) En ningún caso.</answer>
+<answer>c) Depende de la Comunidad Autónoma.</answer></question>
+
+<question><q_text>¿Cómo se prestarán siempre las escopetas?</q_text>
+<answer>a) Con sus guías de pertenencia.<correct></correct></answer>
+<answer>b) Con la licencia de caza.</answer>
+<answer>c) Con la guía de circulación.</answer></question>
+
+<question><q_text>¿Cómo se prestarán siempre las armas de caza?</q_text>
+<answer>a) Con sus guías de pertenencia.<correct></correct></answer>
+<answer>b) No se pueden prestar.</answer>
+<answer>c) Con sus fundas.</answer></question>
+
+<question><q_text>¿Se podrán prestar las armas de caza a quien no esté provisto de licencia de caza?  </q_text>
+<answer>a) Sí, si quien la va a utilizar dispone de finca particular para el ejercicio de la caza.  </answer>
+<answer>b) No.  <correct></correct></answer>
+<answer>c) Si, por no ser requisito fundamental.  </answer></question>
+
+<question><q_text>¿Qué requisito es necesario acreditar para obtener la guía de pertenencia de un arma?  </q_text>
+<answer>a) Que cumple con las medidas de seguridad impuestas en la custodia de la misma.  <correct></correct></answer>
+<answer>b) Que no ha tenido ningún incidente en el uso de las armas.  </answer>
+<answer>c) Que no ha extraviado en ninguna ocasión la guía de pertenencia.  </answer></question>
+
+</test>
