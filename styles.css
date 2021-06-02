@@ -1,6 +1,5 @@
  body {
-   margin-right: 5em;
-   margin-left: 5em;
+   margin: auto;
    max-width: 40em;
    font-size: 133%;
  }
