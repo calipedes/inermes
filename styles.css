@@ -13,7 +13,14 @@
  }*/
 
  .nav-bar {
+   padding-top: 1em;
    text-align: right;
+ }
+ 
+ .nav-bar .shuffle {
+   margin: 0em 3em 0em 0em; 
+   background-color: #FAFAFA;
+   border-radius: 5px;
  }
   
  ol {

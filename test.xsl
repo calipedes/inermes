@@ -9,22 +9,33 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="initial-scale=1"/>
     <link rel="stylesheet" type="text/css" href="./styles.css"/>
+    <script>
+      function test_shuffle () {
+        var ol = document.getElementById('question_list');
+        for (var i = ol.children.length; i >= 0; i--) {
+           ol.appendChild(ol.children[Math.random() * i | 0]);
+        }
+      }
+    </script>
   </head>
 
   <body>
 
     <div class="nav-bar">
+      <button class="shuffle" type="button" onclick="test_shuffle()">Desordenar</button>
       <a href="{test/nav/prev/link}"><xsl:text>&lt;&lt;   </xsl:text><xsl:value-of select="test/nav/prev/name"/> </a>
       <xsl:text>  |  </xsl:text>
       <a href="{test/nav/next/link}"><xsl:value-of select="test/nav/next/name"/><xsl:text>   &gt;&gt;</xsl:text></a>
     </div>
+
+
 
     <h1><xsl:value-of select="test/title"/></h1>
     <h2><xsl:value-of select="test/subtitle"/></h2>
 
     <form method="POST">
 
-      <ol>
+      <ol id="question_list">
       <xsl:for-each select="test/question">
         <li><fieldset>
           <legend><xsl:value-of select="q_text"/></legend>
