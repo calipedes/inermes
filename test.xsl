@@ -25,10 +25,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <button class="shuffle" type="button" onclick="test_shuffle()">Desordenar</button>
       <a href="{test/nav/prev/link}"><xsl:text>&lt;&lt;   </xsl:text><xsl:value-of select="test/nav/prev/name"/> </a>
       <xsl:text>  |  </xsl:text>
+      <a href="./index.html"><xsl:text>Inicio</xsl:text></a>
+      <xsl:text>  |  </xsl:text>
       <a href="{test/nav/next/link}"><xsl:value-of select="test/nav/next/name"/><xsl:text>   &gt;&gt;</xsl:text></a>
     </div>
-
-
 
     <h1><xsl:value-of select="test/title"/></h1>
     <h2><xsl:value-of select="test/subtitle"/></h2>

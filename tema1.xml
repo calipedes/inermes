@@ -4,7 +4,7 @@
 <test>
 
 <nav>
-  <prev><name>Inicio</name><link>./index.html</link></prev>
+  <prev><name>Tema 7</name><link>./tema7.xml</link></prev>
   <next><name>Tema 2</name><link>./tema2.xml</link></next>
 </nav>
 
